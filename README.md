@@ -5,7 +5,7 @@ I am intreseted in studies of Machine Learning, Deep Learning, and Artificial In
 
 I am also currently experimenting with predictive models, natural language processing, and computer vision.
 
-I want to deepen my understanding of algorithmic theory, mathematical modeling, and research methods for ML and AI.
+I want to work towards building AI/ML models that either solve an issue or contribute to other applications and technologies. I also want to deepen my understanding of algorithmic theory, mathematical modeling, and research methods for ML and AI.
 
 I love what I do and am excited to keep learning, building, and collaborating with others.
 
